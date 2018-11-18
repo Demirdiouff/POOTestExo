@@ -85,7 +85,7 @@ class PersonnagesManager {
 }
 
 
-$perso = new Personnage([
+$perso = new Personnage([ 
     'nom' => 'Victor',
     'forcePerso' => '50',
     'degats' => '20',
