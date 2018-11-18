@@ -17,7 +17,7 @@
 // 1- les attributs
 // 2- les méthodes
 
-class Personnage {   
+class Personnage {
     
     // on commence par les attributs (pour des soucis de normes on écrit toujours avec _ le début des variables
     private $_id;
